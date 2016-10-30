@@ -71,7 +71,8 @@ if ('user' == $event->source->type) {
                 }
             }
         }
-        $textMessageBuilder = new \LINE\LINEBot\MessageBuilder\TextMessageBuilder ( $input );
+//         $textMessageBuilder = new \LINE\LINEBot\MessageBuilder\TextMessageBuilder ( $input );
+        $textMessageBuilder = new \LINE\LINEBot\MessageBuilder\TextMessageBuilder ("aa¥naa,aa¥¥naa,aa\naa,aa\\naa");
         $response = $bot->replyMessage ( $event->replyToken, $textMessageBuilder );
         return;
     }
