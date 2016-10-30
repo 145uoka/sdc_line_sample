@@ -1,8 +1,0 @@
-/FollowEvent.php
-/JoinEvent.php
-/LeaveEvent.php
-/MessageEvent.php
-/PostbackEvent.php
-/UnfollowEvent.php
-/BaseEvent.php
-/BeaconDetectionEvent.php

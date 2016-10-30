@@ -1,6 +1,0 @@
-/CurlExecutionException.php
-/InvalidEventRequestException.php
-/InvalidEventSourceException.php
-/InvalidSignatureException.php
-/UnknownEventTypeException.php
-/UnknownMessageTypeException.php
