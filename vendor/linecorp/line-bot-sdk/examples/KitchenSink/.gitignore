@@ -1,0 +1,8 @@
+!/logs/.gitkeep
+/logs/*
+!/public/static/tmpdir/.gitkeep
+/public/static/tmpdir/*
+/composer.json
+/run.sh
+/LICENSE
+/README.md

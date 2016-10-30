@@ -1,0 +1,14 @@
+/.idea/
+composer.lock
+composer.phar
+/tests/Private
+/docs/
+*.iml
+vendor/
+/composer.json
+/phpunit.xml
+/LICENSE
+/Makefile
+/README.md
+/.travis.yml
+/CONTRIBUTING.md

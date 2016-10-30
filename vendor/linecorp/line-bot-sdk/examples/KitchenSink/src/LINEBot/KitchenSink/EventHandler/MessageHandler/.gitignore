@@ -1,0 +1,6 @@
+/ImageMessageHandler.php
+/LocationMessageHandler.php
+/StickerMessageHandler.php
+/TextMessageHandler.php
+/VideoMessageHandler.php
+/AudioMessageHandler.php
